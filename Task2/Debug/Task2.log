@@ -1,0 +1,4 @@
+﻿  Task2.cpp
+C:\Users\sanzh\source\repos\Task2\Task2.cpp(55,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\sanzh\source\repos\Task2\Task2.cpp(101,36): warning C4018: <: несоответствие типов со знаком и без знака
+  Task2.vcxproj -> C:\Users\sanzh\source\repos\Task2\Debug\Task2.exe
